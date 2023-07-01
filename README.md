@@ -1,6 +1,11 @@
 # Badtooth for ESP32
 Badtooth is a badusb but using bluetooth
 
+## Librairies
+[BleKeyboard](https://github.com/T-vK/ESP32-BLE-Keyboard)
+[Wifi (ESP32 Board)]([https://github.com/T-vK/ESP32-BLE-Keyboard](https://github.com/espressif/arduino-esp32/tree/master/libraries/WiFi))
+WebServer (ESP32 Board)
+
 ## Material
 - An esp32
 - A computer
