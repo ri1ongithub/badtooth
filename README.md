@@ -6,7 +6,7 @@ Badtooth is a badusb but using bluetooth
 - A computer
 
 ## Installation
-1. Download the .ino file from the last release.
+1. Download the .ino file from the [last release](https://github.com/ri1ongithub/badtooth/releases).
 2. Open it in the Arduino IDE.
 3. In Tools > Partition Scheme, select "Minimal SPIFFS".
 4. Plug your esp32 and upload BadTooth with the Upload button.
